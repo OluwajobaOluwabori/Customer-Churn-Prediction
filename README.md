@@ -17,6 +17,8 @@ These references were helpful in setting up spark on Google Colab and jupyter no
 Capstone_Project_main.ipynb contains analysis and predictions for small dataset.
 Capstone_Project_full.ipynb contains analysis and predictions for full dataset.
 
+## Results
+In depth analysis to this project can be found [here](https://medium.com/@oluwabori.joba/predicting-churn-with-spark-a-practical-guide-02dedd9e9664)
 ## Acknowledgements
 Datasets was gotten from Udacity for a fictional digital music service called Sparkify
 
