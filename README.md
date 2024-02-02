@@ -3,11 +3,17 @@ In every B2C business, there will always be instances when users stop using your
 ## Project Motivation
 The goal of this project is to accurately predict users capable of churning. The full dataset is 12GB, due to its size this could not be done locally, so an Elastic MapReduce (EMR) cluster was deployed to perform tasks in the AWS cloud and I will analyze a mini subset in the workspace.
 ## Libraries
-Apache Spark 3.3.24 with hadoop 3.0, Java 8 and Findspark were used in this project. Findspark was used in order to locate the spark in the system.
+Apache Spark 3.3.24 with hadoop 3.0, Java 8 and Findspark were used in this project. 
+Findspark was used in order to locate the spark in the system.
+
 NumPy
+
 Pandas
+
 Seaborn
+
 Matplotlib
+
 PySpark 
 These references were helpful in setting up spark on Google Colab and jupyter notebook [Link 1](https://towardsdatascience.com/pyspark-in-google-colab-6821c2faf41c)
 [Link 2](https://medium.com/@deepa.account/setting-up-spark-ui-with-colab-7bdbc0ac5fa7)
